@@ -1,5 +1,6 @@
 # Introduciton to This Repo
-I am a JI student enrolled in 2020. And I was the TA of VC210 FA2021, VE203 SU2022, VV256 FA2022. I was quite interested in applied math especially the probability theory(Bayesain Analysis) and linear algebra. For the sake of time, I may not be able to apply the TA's job of ECE4010J but I'd like to upload some file to help my friends in JI to get higher grade in this course.
+I am a JI student enrolled in 2020. And I was the TA of VC210 FA2021, VE203 SU2022, VV256 FA2022. I was quite interested in applied math especially the probability theory(Bayesain Analysis) and linear algebra. For the sake of time, I may not be able to apply the TA's job of ECE4010J but I'd like to upload some file to help my friends in JI to get higher grade in this course.\
+Updates: I will be TA of this course in SP2023
 # Project
 In the folder project: there is the python code for the term project. My advice is that: do not try deep learning model in the project, since there is not enough data, deep learning model will definitly fit poorly.
 # Measure Theory
