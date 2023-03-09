@@ -8,6 +8,8 @@ In the folder project: there is the python code for the term project. My advice 
 In the folder measure theory: there is the note I write down which is about simple measure theory its relationship with probability theory, if you have interest you can read this. However, I can't promise that what I wrote in that file is completely right.
 # Variable Transformation
 In that folder, the basic concept and code implementation on Pytorch of variational inference with normalizing flow is placed. It is an application of variable transformation learned in the course ECE4010J. There are a corresponding paper in 2016 about the variational inference with normalizing flow, the arxiv link is provided
+# EM-Code
+The example problem and the corresponding solution code to these problem using EM algorithm implemented by python. Which is a classical numerical method finding local minimum, which will be taught in detail in STAT4510J Bayesian Analyis.
 # CTPP
 In the folder ctpp: there is the ctpp that may help in midterm and final exam, which is based on the TA GJN in SP2021 and something is added by me.
 Hope you can get at least A- or A in this course!
